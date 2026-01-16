@@ -60,7 +60,7 @@ Do you get it? It's about making goals that align with your intentions.
 Goals should be time-bound to be effective. How you set the duration is really up to you.<br />
 But if the duration gets too long you might benefit from breaking down your goal into smaller ones.
 
-What do you think about the S.M.A.R.T. goal setting framework? Still to complicated?
+<b>What do you think about the S.M.A.R.T. goal setting framework? Still to complicated?</b>
 <br />
 
 Then I suggest you start with "the motto of the year".<br />
