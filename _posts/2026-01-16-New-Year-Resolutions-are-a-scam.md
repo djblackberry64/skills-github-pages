@@ -78,7 +78,7 @@ Credit:
 
 <ul>
   <li>
-  Advice with Erin (YT Short): <a href="https://youtube.com/shorts/Tes1S_mCzFQ?si=Aj3zQIb1Npj-8Vej">Link to video</a>
+  Advice with Erin (YT Short): <a href="https://youtube.com/shorts/Tes1S_mCzFQ?si=Aj3zQIb1Npj-8Vej">Link to the YT short</a>
   </li>
 
 </ul>
