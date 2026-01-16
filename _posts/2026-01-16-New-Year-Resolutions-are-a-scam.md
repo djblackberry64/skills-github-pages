@@ -1,6 +1,8 @@
 ---
 title: "New Year Resolutions are a scam"
 date: 2026-01-16
+author: djblackberry64
+description: A little post about new year resolutions for 2026
 ---
 
 Hi. What are your new year resolutions? Eating healthy? Working out? Learning to code?
