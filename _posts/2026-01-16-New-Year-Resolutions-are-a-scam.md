@@ -5,6 +5,8 @@ author: djblackberry64
 description: A little post about new year resolutions for 2026
 ---
 
+{{page.description}}
+
 Hi. What are your new year resolutions? Eating healthy? Working out? Learning to code?
 
 Dare I say, these are a little to vague to stick to. Of course you might say "This is intentional because you can't plan too far ahead!" but excuse me when I say that this is bullsh!t.
