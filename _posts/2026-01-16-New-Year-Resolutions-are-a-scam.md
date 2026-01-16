@@ -5,7 +5,7 @@ author: djblackberry64
 description: A little post about new year resolutions for 2026
 ---
 
-{{page.description}}
+<i>{{page.description}}</i>
 
 Hi. What are your new year resolutions? Eating healthy? Working out? Learning to code?
 
