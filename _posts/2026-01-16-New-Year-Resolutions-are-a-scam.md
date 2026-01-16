@@ -72,7 +72,7 @@ Try to think of one word that sums up what you wanna achieve this year and let t
 
 That's all for now. Thanks for checking in and I'll see you in the next post!
 
-If you wanna support me consider buying me coffee at:<a href="https://ko-fi.com/djblackberry64#setPageVideoModal">Link to Ko-fi site</a>
+If you wanna support me consider buying me coffee at: <a href="https://ko-fi.com/djblackberry64#setPageVideoModal">Link to Ko-fi site</a>
 
 Credit:
 
