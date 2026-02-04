@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New Year Resolutions are a scam"
 date: 2026-01-16
 author: djblackberry64
