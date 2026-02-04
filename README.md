@@ -8,4 +8,4 @@ If you have any topic you'd like explored you can get in touch with me.
 
 ## What you should know
 
-Here is the link to the blog: <a href="https://djblackberry64.github.io/skills-github-pages/">Blog link</a>
+Here is the link to the blog: <a href="https://djblackberry64.github.io/djblackberry64-blog/">Blog link</a>
