@@ -45,9 +45,7 @@ layout: base
     </div>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}{% include giscus.html %}
-  </div>
+  <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
   {% if jekyll.environment == 'production' -%} {% if page.comments == false -%}
   <div class="comments-disabled-message">
     Comments have been disabled for this post.
