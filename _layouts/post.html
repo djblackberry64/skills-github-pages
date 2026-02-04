@@ -45,9 +45,10 @@ layout: base
     </div>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
-  {% include giscus.html %} {% if jekyll.environment == 'production' -%} {% if
-  page.comments == false -%}
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}{% include giscus.html %}
+  </div>
+  {% if jekyll.environment == 'production' -%} {% if page.comments == false -%}
   <div class="comments-disabled-message">
     Comments have been disabled for this post.
   </div>
