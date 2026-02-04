@@ -1,51 +1,29 @@
-<link
-  id="fa-stylesheet"
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.0.0/css/all.min.css"
-/>
+<!-- Footer bleibt wie im Remote-Theme -->
 
-<footer class="site-footer h-card">
-  <data class="u-url" value="{{ '/' | relative_url }}"></data>
-
+<footer class="site-footer" role="contentinfo">
   <div class="wrapper">
-    <script
-      src="https://giscus.app/client.js"
-      data-repo="djblackberry64/djblackberry64-blog"
-      data-repo-id="R_kgDOP9c4EQ"
-      data-category="General"
-      data-category-id="DIC_kwDOP9c4Ec4C149u"
-      data-mapping="title"
-      data-strict="0"
-      data-reactions-enabled="1"
-      data-emit-metadata="0"
-      data-input-position="bottom"
-      data-theme="preferred_color_scheme"
-      data-lang="en"
-      crossorigin="anonymous"
-      async
-    ></script>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-          <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%} {% if site.author.email -%}
-          <li>
-            <a class="u-email" href="mailto:{{ site.author.email }}"
-              >{{ site.author.email }}</a
-            >
-          </li>
-          {%- endif %}
-        </ul>
-        {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-
-    <div class="social-links">{%- include social.html -%}</div>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
   </div>
+
+  <!-- Giscus Script für Kommentare -->
+  {% if page.layout == "post" %}
+  <div id="giscus_thread"></div>
+  <script
+    src="https://giscus.app/client.js"
+    data-repo="djblackberry64/djblackberry64-blog"
+    data-repo-id="R_kgDOP9c4EQ"
+    data-category="General"
+    data-category-id="DIC_kwDOP9c4Ec4C149u"
+    data-mapping="title"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="bottom"
+    data-theme="preferred_color_scheme"
+    data-lang="en"
+    crossorigin="anonymous"
+    async
+  ></script>
+  {% endif %}
+  <noscript>Bitte aktiviere JavaScript, um die Kommentare zu sehen.</noscript>
 </footer>
